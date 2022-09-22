@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 ### FOLLOW ❣️
+</br>
+<p align="center">
 <a href="https://www.instagram.com/yoonl_ord/">
     <img 
         src="http://img.shields.io/badge/-INSTAGRAM-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yoonl_ord/"
