@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<br><br>
+<br>
 <h3><b>❣️ FOLLOW ❣️</b></h3>
 <a href="https://www.instagram.com/yoonl_ord/">
     <img 
