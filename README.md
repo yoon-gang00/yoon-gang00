@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=%20HELLO%20👻)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=👻)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yk1008)](https://solved.ac/yk1008)
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <div align=left> 
