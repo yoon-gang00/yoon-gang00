@@ -13,12 +13,6 @@
 <img src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white">
 </div>
 <br>
-<h3><b>❣️ FOLLOW ❣️</b></h3>
-<a href="https://www.instagram.com/yoonl_ord/">
-    <img 
-        src="http://img.shields.io/badge/-INSTAGRAM-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yoonl_ord/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 <!--
 **yoon-gang00/yoon-gang00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
