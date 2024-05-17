@@ -9,13 +9,14 @@
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <br>
 <img src="https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yk1008)](https://solved.ac/yk1008)
 
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-gang00&layout=compact&theme=radical&hide=jupyter%20notebook'/>
 
 <!--
 **yoon-gang00/yoon-gang00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
